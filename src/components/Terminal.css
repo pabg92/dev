@@ -1,0 +1,14 @@
+.terminal-container {
+    background-color: #1e1e1e;
+    color: #33C950;
+    font-family: 'SF Mono', 'Courier New', Courier, monospace;
+    padding: 20px;
+    border-radius: 5px;
+    margin: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .ascii-art {
+    white-space: pre;
+  }
+  
