@@ -1,3 +1,4 @@
+// src/components/Terminal.js
 import React, { useState } from 'react';
 import '../css/Terminal.css';
 
